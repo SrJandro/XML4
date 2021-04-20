@@ -10,6 +10,6 @@ El projecte final de l'assignatura de XMl
 
 
 ## Autors
-
-- Alejandro Mariñas
-- Ambar Lizbeth
+- Jordi
+- Aurora
+- Ana
