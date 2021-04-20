@@ -21,8 +21,4 @@ El projecte final de l'assignatura de XMl
 kjkk
 
 ## segon
-- hola
-- Adeu
-
-### aqui estamos pasando el tiempo con esto:)
-### jijijij
+- ALEJANNDROOO
