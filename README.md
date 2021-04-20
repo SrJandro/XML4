@@ -21,4 +21,3 @@ El projecte final de l'assignatura de XMl
 kjkk
 
 ## segon
-- ALEJANNDROOO
