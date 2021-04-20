@@ -11,5 +11,7 @@ El projecte final de l'assignatura de XMl
 
 ## Autors
 
+- Alejandro Mariñas Almansa
+- Ambar Lizbeth Piruleta
 
 ## segon
