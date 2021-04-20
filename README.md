@@ -7,3 +7,9 @@ El projecte final de l'assignatura de XMl
 ## Desenvolupament
 · Item 1
 · Item 2
+
+
+## Autors
+
+- Alejandro Mariñas
+- Ambar Lizbeth
