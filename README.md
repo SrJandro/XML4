@@ -11,4 +11,4 @@ El projecte final de l'assignatura de XMl
 
 ## Autors
 - Jordi
-- Aurora
+- Aurora+
