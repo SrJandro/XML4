@@ -17,6 +17,12 @@ El projecte final de l'assignatura de XMl
 - Jordi
 - Aurora
 - Ana
+- Alejandro
 kjkk
 
 ## segon
+- hola
+- Adeu
+
+### aqui estamos pasando el tiempo con esto:)
+### jijijij
