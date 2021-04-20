@@ -10,13 +10,13 @@ El projecte final de l'assignatura de XMl
 
 
 ## Autors
-<<<<<<< HEAD
+
 
 - Alejandro Mariñas
 - Ambar Lizbeth
-=======
 - Jordi
 - Aurora
 - Ana
 kjkk
->>>>>>> origin/main
+
+## segon
