@@ -6,16 +6,19 @@ public class Main {
     public static void main(String[] args) {
         saludaMain();
         Segon.saluda();
+
+
+        leerEstoc();
     }
 
 
 
-public static void saludaMain(){
+    public static void saludaMain(){
     System.out.println("Hola desde Main!");
-}
+  }
 
 
-void menuPrincipal(){
+  void menuPrincipal(){
     System.out.println("Gestió de supermercat");
     System.out.println("1. Gestió Estoc");
     System.out.println("2. Gestió Vendes");
@@ -29,7 +32,20 @@ void menuPrincipal(){
 }
 
 
-static void leerEstoc(){
+  static void leerEstoc(){
+     Scanner sc = new Scanner(System.in);
 
-}
+     String p;
+     while( p.equals("-1")) {
+         p = sc.next();
+         System.out.println(p);
+
+         p = sc.next();
+         System.out.println(p);
+
+         p = sc.next();
+         System.out.println(p);
+
+     }
+  }
 }
