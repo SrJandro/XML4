@@ -1,0 +1,4 @@
+1 manzanas 1.99
+2 leche 0.95
+3 pan 1.25
+-1
