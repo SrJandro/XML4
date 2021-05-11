@@ -20,4 +20,7 @@ public class Tienda {
 
     public String devolverNombre() {
     }
+
+    public String devolverStok() {
+    }
 }

@@ -74,10 +74,10 @@ public class Main {
 
         Scanner teclado = new Scanner(System.in);
         do {
-            System.out.println("+++ Supermecado \" Don Botellon \" +++++");
+            System.out.println("+++ Supermecado \" 2A \" +++++");
             System.out.println("");
-            System.out.println("Pulse 1 para acceso al Menu de Altas de productos");
-            System.out.println("Pulse 2 para acceder al Menu de Ventas");
+            System.out.println("Pulse 1 para mostrar el ticket");
+            System.out.println("Pulse 2 para acceder al Menu de productos");
             System.out.println("Pulse 3 para salir ");
             opcion = teclado.nextInt();
 
@@ -91,7 +91,7 @@ public class Main {
                     break;
                 }
                 case 3: {
-                    System.out.println("Gracias!!! por usar el programa");
+                    System.out.println("Gracias, vuelva pronto");
                     break;
                 }
                 default: {
@@ -109,11 +109,11 @@ public class Main {
         String respuesta = "no";
         Scanner teclado = new Scanner(System.in);
         do {
-            System.out.println("- Menu de altas de Productos -");
+            System.out.println("- Menu Productos -");
 
             productos.add(new Tienda());
 
-            System.out.println("Â¿Desea dar de alta Otro Producto?");
+            System.out.println("¿Desea algun Otro Producto?");
             respuesta = teclado.nextLine();
         } while (respuesta.equalsIgnoreCase("si"));
 
@@ -150,7 +150,7 @@ public class Main {
 
             factura = factura + unidades;
 
-            System.out.println("Â¿Desea comprar otro producto?(si/no)");
+            System.out.println("¿Desea comprar otro producto?(si/no)");
             respuesta = teclado.next();
 
         } while (respuesta.equalsIgnoreCase("si"));
@@ -163,7 +163,7 @@ public class Main {
         Scanner teclado = new Scanner(System.in);
         int unidades;
 
-        System.out.println("Â¿Cuantas unidades quieres?");
+        System.out.println("¿Cuantas unidades quieres?");
         unidades = teclado.nextInt();
 
         return unidades;
