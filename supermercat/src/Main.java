@@ -12,6 +12,12 @@ public class Main {
         solicitarStockPro();
         solicitarPrecioPro();
     }
+    public void solicitarNombrePro(){
+        Scanner teclado = new Scanner(System.in);
+        System.out.println("------Producte--------");
+        System.out.println("Introdueix el nom del producte: ");
+        nombrePr = teclado.nextLine();
+    }
 
     public static int solicitarProductos() {
         int numeroPro;
@@ -21,12 +27,6 @@ public class Main {
 
         numeroPro = teclado.nextInt();
         return numeroPro;
-    }
-    public void solicitarNombrePro(){
-        Scanner teclado = new Scanner(System.in);
-        System.out.println("------Producte--------");
-        System.out.println("Introdueix el nom del producte: ");
-        nombrePr = teclado.nextLine();
     }
 
     public void solicitarStockPro(){
